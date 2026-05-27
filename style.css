@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0f1117;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+.container {
+  text-align: center;
+  padding: 40px;
+  border: 1px solid #333;
+  border-radius: 12px;
+}
+h1 { color: #ff9900; } /* AWS orange */
